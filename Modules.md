@@ -24,7 +24,7 @@ Each student will start off with (?) tokens.  These tokens may be redeemed throu
 * Miss the in-class activity for one day
 * Skip one problem on a Midterm exam or the final exam.  A skipped problem will count as correct.  (No more than one token can be used per midterm; there is no such restriction on the final.)
 
-For the last one, this will allow an easier cutoff for the different assessment levels.  For example, if you need to get 8 out of the 10 problems from the Core Concepts part of a Midterm, this will allow you to only need 7 for the same credit.  Alternatively, it will allow you to skip problems on the final exam to make the 70% cutoff easier to reach.
+For the last one, this will allow an easier cutoff for the different grade levels.  For example, if you need to get 8 out of the 10 problems from the Core Concepts part of a Midterm, this will allow you to only need 7 for the same credit.  Alternatively, it will allow you to skip problems on the final exam to make the 70% cutoff easier to reach.
 
 I will remain open to suggestions for other uses of tokens - you will probably think of creative ways to cash them in.
 
