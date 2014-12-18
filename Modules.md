@@ -9,15 +9,17 @@ To complete any module, a student must complete the following tasks:
 * Answer 80% of the Core Concepts problems on the exam correctly.
 * Participate in the in-class activity each day.
 
-There will be two assessments between each class period.  The first, the *basic assessment* will measure whether you know and understand the foundational information for this particular section.  It will include some assessment problems designed to gauge whether you understand the facts.
+###Between Class Assessments
 
-The second assessment will be an *advanced assessment*.  It will give you a chance to apply the given information in a more interesting context.
+There will be two assessments between each class period.  The first, the *basic assessment* will measure whether you know and understand the foundational information for this particular section and the previous section.  It will include some assessment problems designed to gauge whether you understand the facts.
+
+The second assessment will be an *advanced assessment*.  It will give you a chance to apply the given information from the previous section in a more interesting context.
 
 There will be five midterm exams in the course - one for each Module.  Midterm exams will be split up into two parts, the **Core Concepts** and the **Advanced Applications**.  Each student must complete 80% of the questions in the **Core Concepts** correctly to pass the exam.  If, in addition, the student completes 75% of the **Advanced Application** problems correctly, they will receive credit towards the *Advanced Bundle*.
 
 ###Tokens
 
-Each student will start off with (?) tokens.  These tokens may be redeemed throughout the semester for the following benefits:
+Each student will start off with 5 (*or more or less*) tokens.  These tokens may be redeemed throughout the semester for the following benefits:
 
 * Turn in an assessment up to 24 hours late
 * Drop *one* assessment grade
