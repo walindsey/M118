@@ -111,10 +111,10 @@ In this module, you will be introduced to maximization and minimization problems
 * Translate a word problem into a system of linear inequalities and an objective function.
 * Find the solution of a word problem using linear programming techniques.
 
-##Module 4 - Matrix Algebra
-In this module, you will be introduced to matrices.  In particular, you will learn the Gauss-Jordan elimination technique and use it to find both solutions to linear systems of equations as well as matrix inverses.
+##Module 4 - Matrix Algebra and Markov Processes
+In this module, you will be introduced to matrices.  In particular, you will learn the Gauss-Jordan elimination technique and use it to find both solutions to linear systems of equations as well as matrix inverses.  You will also be introduced to Markov processes.  The main goal will be to find stable distributions and matrices for certain Markov processes to determine long-run behavior of a system.
 
-**Included Sections**:  Chapter 2, sections 1-5.
+**Included Sections**:  Chapter 2, sections 1-5, and Chapter 8, sections 1-3.
 
 ###1.  Linear Equations
 
@@ -138,26 +138,22 @@ In this module, you will be introduced to matrices.  In particular, you will lea
 * Use Gauss-Jordan elimination to compute the inverse of a matrix or identify that it cannot be done.
 * Use a given matrix inverse to solve a system of linear equations.
 
-##Module 5 - Markov Processes
-In this module, you will be introduced to Markov processes.  The main goal will be to find stable distributions and matrices for certain Markov processes to determine long-run behavior of a system.
 
-**Included Sections**:  Chapter 8, sections 1-3.
-
-###1.  The Transition Matrix
+###4.  The Transition Matrix
 
 * Determine whether a matrix is stochastic
 * Write a stochastic matrix corresponding to a transition diagram.
 * Draw a transition diagram corresponding to a stochastic matrix.
 * Use a transition matrix to determine a probability given an initial distribution.
 
-###2.  Regular Stochastic Matrices
+###5.  Regular Stochastic Matrices
 
 * Determine whether a stochastic matrix is regular.
 * Estimate the stable matrix (and stable distribution) using powers of the transition matrix.
 * Compute the stable distribution algebraically.
 * Use the stable distribution to discuss the long-run behavior of a system.
 
-###3.  Absorbing Stochastic Matrices
+###6.  Absorbing Stochastic Matrices
 
 * Determine when a state is an absorbing state.
 * Determine when a stochastic matrix is an absorbing stochastic matrix.
